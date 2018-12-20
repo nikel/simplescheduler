@@ -11,6 +11,6 @@
   <oneTimeMin>0</oneTimeMin>
   <countDownMin>10</countDownMin>
   <idleMin>10</idleMin>
-  <warnTimeOut>30</warnTimeOut>
-  <language>English</language>
+  <warnTimeOut>45</warnTimeOut>
+  <language>english</language>
 </channel>
