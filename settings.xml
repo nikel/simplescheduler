@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channel>
-  <updates>-1</updates>
-  <rememberInputs>0</rememberInputs>
-  <warn>0</warn>
+  <updates>0</updates>
+  <rememberInputs>-1</rememberInputs>
+  <warn>-1</warn>
   <action>0</action>
   <file/>
   <parameters/>
   <scheduleType>one time</scheduleType>
   <oneTimeHour>1</oneTimeHour>
   <oneTimeMin>0</oneTimeMin>
-  <countDownMin>10</countDownMin>
-  <idleMin>10</idleMin>
+  <countDownMin>30</countDownMin>
+  <idleMin>30</idleMin>
   <warnTimeOut>45</warnTimeOut>
-  <language>english</language>
+  <language>turkish</language>
 </channel>
