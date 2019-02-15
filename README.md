@@ -9,6 +9,6 @@ Schedule types are:
 
 Tested on 
 
-Windows XP (may not work properly)
-Windows 7
-Windows 10
+* Windows XP (may not work properly)
+* Windows 7
+* Windows 10
