@@ -3,8 +3,12 @@ Simple Scheduler lets you schedule basic tasks such as running a program with pa
 
 Schedule types are:
 
-Action at time
+* Action at time
+* Action after countdown
+* Action when idle
 
-Action after countdown
+Tested on 
 
-Action when idle
+Windows XP (may not work properly)
+Windows 7
+Windows 10
