@@ -7,8 +7,5 @@ Schedule types are:
 * Action after countdown
 * Action when idle
 
-Tested on 
+Tested on Windows 7.
 
-* Windows XP (may not work properly)
-* Windows 7
-* Windows 10
