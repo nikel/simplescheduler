@@ -3,7 +3,7 @@ Simple Scheduler lets you schedule basic tasks such as running a program with pa
 
 Schedule types are:
 
-* Action at time
+* Action at a time
 * Action after countdown
 * Action when idle
 
